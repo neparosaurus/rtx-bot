@@ -1,5 +1,9 @@
 # AMAZON BUYING BOT
 
+### NOTE
+
+This bot has been deprecated. I already got myself a graphic cards few months ago so I decided to stop maintaining this repository.
+
 ### About
 
 Amazon scraper built for purpose of buying RTX 3000 series graphic card on Amazon but can be used for any other product on Amazon.
